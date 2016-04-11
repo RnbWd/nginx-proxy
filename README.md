@@ -1,6 +1,9 @@
 ![nginx 1.9.14](https://img.shields.io/badge/nginx-1.9.14-brightgreen.svg?style=flat-square)
 ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+[![Docker Stars](https://img.shields.io/docker/stars/rnbwd/nginx.svg?style=flat-square)](https://hub.docker.com/r/rnbwd/nginx/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/rnbwd/nginx.svg?style=flat-square)](https://hub.docker.com/r/rnbwd/nginx/)
+[![Docker Size](https://img.shields.io/imagelayers/image-size/rnbwd/nginx/latest.svg?style=flat-square)](https://hub.docker.com/r/rnbwd/nginx/)
+[![Docker Size](https://img.shields.io/imagelayers/layers/rnbwd/nginx/latest.svg?style=flat-square)](https://hub.docker.com/r/rnbwd/nginx/)
 
 nginx-proxy sets up a container running nginx and [docker-gen][1].  docker-gen generates reverse proxy configs for nginx and reloads nginx when containers are started and stopped.
 
